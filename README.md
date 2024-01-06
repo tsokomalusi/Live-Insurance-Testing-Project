@@ -14,3 +14,9 @@ Read all the functionalities mentioned very very carefully.
 
 Here is a link to [test case templates](https://github.com/tsokomalusi/Live-Insurance-Testing-Project/blob/main/Resources/TestCaseTemplate.xls)
 
+So start making test cases!
+
+**Happy Testing**
+Team Guru99
+
+
