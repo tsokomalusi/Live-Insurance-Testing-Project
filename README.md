@@ -12,5 +12,5 @@ Refer to this SRS documents - [SRS Guru99 Insurance-Google Docs](https://github.
 
 Read all the functionalities mentioned very very carefully.
 
-Here is a link to [test case templates]()
+Here is a link to [test case templates](https://github.com/tsokomalusi/Live-Insurance-Testing-Project/blob/main/Resources/TestCaseTemplate.xls)
 
