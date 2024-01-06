@@ -17,6 +17,7 @@ Here is a link to [test case templates](https://github.com/tsokomalusi/Live-Insu
 So start making test cases!
 
 **Happy Testing**
-Team Guru99
+
+
 
 
