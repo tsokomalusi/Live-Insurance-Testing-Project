@@ -18,6 +18,18 @@ So start making test cases!
 
 **Happy Testing**
 
+## Day 1: Project Kickoff
+
+Hey there,
+ 
+Are the test cases ready?
+ 
+If yes, great reply to this email with the test cases as attachment
+ 
+If no, Hurry UP! Testing will begin tomorrow
+
+**Cheers**
+Team Guru99
 
 
 
