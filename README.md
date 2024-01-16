@@ -37,7 +37,7 @@ Hi Fellow Tester,
  
 Guru99 Insurance Project is now available for testing 
 
- Here's the to the [AUT](https://demo.guru99.com/insurance/v1/index.php)
+ Here's the link of the [AUT](https://demo.guru99.com/insurance/v1/index.php)
 
 
 
