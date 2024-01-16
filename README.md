@@ -18,7 +18,7 @@ So start making test cases!
 
 **Happy Testing**
 
-## Day 2: Test Cases required
+## Day 2: Test cases required
 
 Hey there,
  
