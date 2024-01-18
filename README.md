@@ -43,7 +43,7 @@ Guru99 Insurance Project is now available for testing
 
  Go ahead and execute them!
 
- Report bugs you find in an Excel and them to us
+ Report bugs you find in an Excel and email them to us
 
  **Happy Testing**
  Team Guru99
